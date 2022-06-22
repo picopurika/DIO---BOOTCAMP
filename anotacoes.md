@@ -56,6 +56,7 @@ Cada objeto consiste em três coisas: um tipo , um tamanho e um conteúdo . O ta
 
 4. Cole a chave na configuração de SSH no github.
 
+
 ___
 ### ref
 [objetos git](http://shafiul.github.io/gitbook/1_the_git_object_model.html) 
