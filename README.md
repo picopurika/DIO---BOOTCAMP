@@ -1,2 +1,2 @@
-# DIO-BOOTCAMP 🔮✨
+# DIO-BOOTCAMP 🔮⚡
 Anotações sobre GIT. 
