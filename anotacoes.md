@@ -31,6 +31,8 @@ Cada objeto consiste em três coisas: um tipo , um tamanho e um conteúdo . O ta
 
 * `git branch` — cria ou muda de ramo de desenvolvimento. Também serve para listar todos os ramos existentes.
 
+* `git checkout` — permite navegar entre os branches criados pelo git branch 
+
 * `git merge` — é o jeito do Git de unificar um histórico bifurcado. O comando git merge permite que você pegue as linhas de desenvolvimento independentes criadas pelo git branch e as integre em uma ramificação única.
 
 * `git checkout` — muda de branch (ramo) ou ainda serve para ignorar modificações locais, entre outras funcionalidades.
